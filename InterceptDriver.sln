@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InterceptDriver", "InterceptDriver\InterceptDriver.vcxproj", "{CE7F860B-63CF-4B9A-88B2-27E073A82D1C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Client", "Client\Client.vcxproj", "{699E4855-F316-4A7D-8847-BAC8A4F49D3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE7F860B-63CF-4B9A-88B2-27E073A82D1C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CE7F860B-63CF-4B9A-88B2-27E073A82D1C}.Debug|Win32.Build.0 = Debug|Win32
+		{CE7F860B-63CF-4B9A-88B2-27E073A82D1C}.Release|Win32.ActiveCfg = Release|Win32
+		{CE7F860B-63CF-4B9A-88B2-27E073A82D1C}.Release|Win32.Build.0 = Release|Win32
+		{699E4855-F316-4A7D-8847-BAC8A4F49D3F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{699E4855-F316-4A7D-8847-BAC8A4F49D3F}.Debug|Win32.Build.0 = Debug|Win32
+		{699E4855-F316-4A7D-8847-BAC8A4F49D3F}.Release|Win32.ActiveCfg = Release|Win32
+		{699E4855-F316-4A7D-8847-BAC8A4F49D3F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
